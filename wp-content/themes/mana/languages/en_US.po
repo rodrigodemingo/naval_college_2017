@@ -1,0 +1,1775 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mana v1.7.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-04-14 04:38:43+0000\n"
+"Last-Translator: admin <test@themeton.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:17
+#: search.php:71
+#@ themeton
+msgid "Sorry, the post you are looking for is not available. Maybe you want to perform a search?"
+msgstr ""
+
+#: archive.php:55
+#: framework/common-functions.php:744
+#@ themeton
+msgid "Written by "
+msgstr ""
+
+#: archive.php:65
+#: framework/common-functions.php:752
+#@ themeton
+msgid "The author didnt add any Information to his profile yet"
+msgstr ""
+
+#: archive.php:73
+#, php-format
+#@ themeton
+msgid "Category : %s"
+msgstr ""
+
+#: archive.php:75
+#, php-format
+#@ themeton
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: archive.php:78
+#, php-format
+#@ themeton
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:80
+#, php-format
+#@ themeton
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:80
+#@ themeton
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:82
+#, php-format
+#@ themeton
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:82
+#@ themeton
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:84
+#@ themeton
+msgid "Archives"
+msgstr ""
+
+#: comments.php:4
+#@ themeton
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:17
+#, php-format
+#@ themeton
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:24
+#: comments.php:38
+#@ themeton
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:25
+#: comments.php:39
+#@ themeton
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:26
+#: comments.php:40
+#@ themeton
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:46
+#@ themeton
+msgid "Comments are closed."
+msgstr ""
+
+#: framework/Pagebuilder/inc/loop_layouts.php:49
+#: framework/Pagebuilder/inc/loop_layouts.php:536
+#: framework/Pagebuilder/inc/loop_layouts.php:586
+#: framework/Pagebuilder/inc/loop_layouts.php:612
+#: framework/Pagebuilder/inc/loop_layouts.php:645
+#: framework/Pagebuilder/inc/loop_layouts.php:685
+#: framework/Pagebuilder/inc/loop_layouts.php:723
+#: framework/Pagebuilder/inc/loop_layouts.php:760
+#: framework/Pagebuilder/inc/loop_layouts.php:797
+#: framework/Pagebuilder/inc/loop_layouts.php:833
+#: framework/Pagebuilder/items/carousel/carousel.php:153
+#: loop.php:15
+#: single.php:59
+#@ themeton
+msgid "BY "
+msgstr ""
+
+#: framework/Pagebuilder/inc/loop_layouts.php:50
+#: framework/Pagebuilder/inc/loop_layouts.php:541
+#: framework/Pagebuilder/inc/loop_layouts.php:587
+#: framework/Pagebuilder/inc/loop_layouts.php:613
+#: framework/Pagebuilder/inc/loop_layouts.php:646
+#: framework/Pagebuilder/inc/loop_layouts.php:686
+#: framework/Pagebuilder/inc/loop_layouts.php:724
+#: framework/Pagebuilder/inc/loop_layouts.php:761
+#: framework/Pagebuilder/inc/loop_layouts.php:798
+#: framework/Pagebuilder/inc/loop_layouts.php:834
+#: framework/Pagebuilder/items/carousel/carousel.php:154
+#: loop.php:16
+#: single.php:60
+#@ themeton
+msgid "IN "
+msgstr ""
+
+#: framework/Pagebuilder/inc/loop_layouts.php:53
+#: framework/Pagebuilder/inc/loop_layouts.php:584
+#: framework/Pagebuilder/inc/loop_layouts.php:610
+#: loop.php:19
+#@ themeton
+msgid "Posted: "
+msgstr ""
+
+#: framework/Pagebuilder/inc/loop_layouts.php:54
+#: framework/Pagebuilder/inc/loop_layouts.php:535
+#: framework/Pagebuilder/inc/loop_layouts.php:585
+#: framework/Pagebuilder/inc/loop_layouts.php:611
+#: loop.php:20
+#@ themeton
+msgid "Comments: "
+msgstr ""
+
+#: framework/Pagebuilder/inc/loop_layouts.php:57
+#: framework/Pagebuilder/inc/loop_layouts.php:562
+#: framework/widgets/post_format_widget.php:42
+#: single.php:72
+#@ themeton
+msgid "posts"
+msgstr ""
+
+#: framework/Pagebuilder/inc/loop_layouts.php:72
+#: framework/Pagebuilder/items/blog/blog.php:74
+#: framework/Pagebuilder/items/portfolio/portfolio.php:43
+#: loop.php:28
+#@ themeton
+msgid "Read more"
+msgstr ""
+
+#: framework/Pagebuilder/inc/loop_layouts.php:81
+#@ themeton
+msgid "<span class=\"entry_more blox_elem_button blox_elem_button_medium blox_elem_color_background blox_elem_button_default\"><i class=\"icon-arrow-right\"></i> Read more</span>"
+msgstr ""
+
+#: framework/Pagebuilder/inc/metro_content.php:349
+#: single-portfolio.php:89
+#: single.php:78
+#: template-page.php:145
+#@ themeton
+msgid "Pages:"
+msgstr ""
+
+#: framework/Pagebuilder/inc/metro_content.php:357
+#: framework/comment-template.php:12
+#: framework/comment-template.php:40
+#: single.php:61
+#: template-page.php:163
+#: woocommerce/myaccount/my-address.php:45
+#@ themeton
+msgid "Edit"
+msgstr ""
+
+#: framework/Pagebuilder/index.php:90
+#@ themeton
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: framework/Pagebuilder/index.php:100
+#@ themeton
+msgid "Post"
+msgstr ""
+
+#: framework/Pagebuilder/index.php:101
+#: framework/common-functions.php:352
+#@ themeton
+msgid "Page"
+msgstr ""
+
+#: framework/Pagebuilder/render.php:169
+#@ themeton
+msgid "Blox Content Builder"
+msgstr ""
+
+#: framework/admin-panel/classes/class.options_machine.php:556
+#@ themeton
+msgid "Last Backup : "
+msgstr ""
+
+#: framework/admin-panel/front-end/options.php:45
+#: framework/admin-panel/front-end/options.php:69
+#@ themeton
+msgid "Save All Changes"
+msgstr ""
+
+#: framework/admin-panel/front-end/options.php:70
+#@ themeton
+msgid "Options Reset"
+msgstr ""
+
+#: framework/comment-template.php:12
+#@ themeton
+msgid "Pingback:"
+msgstr ""
+
+#. translators: 1: comment author, 2: date and time
+#: framework/comment-template.php:29
+#, php-format
+#@ themeton
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: framework/comment-template.php:35
+#, php-format
+#@ themeton
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/comment-template.php:44
+#@ themeton
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/comment-template.php:53
+#@ themeton
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: framework/common-functions.php:218
+#@ themeton
+msgid "Home"
+msgstr ""
+
+#: framework/common-functions.php:219
+#, php-format
+#@ themeton
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: framework/common-functions.php:220
+#, php-format
+#@ themeton
+msgid "Search Results for \"%s\" query"
+msgstr ""
+
+#: framework/common-functions.php:221
+#, php-format
+#@ themeton
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: framework/common-functions.php:222
+#, php-format
+#@ themeton
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: framework/common-functions.php:223
+#@ themeton
+msgid "Error 404"
+msgstr ""
+
+#: framework/common-functions.php:374
+#: framework/common-functions.php:396
+#@ themeton
+msgid "No comment"
+msgstr ""
+
+#: framework/common-functions.php:376
+#: framework/common-functions.php:398
+#@ themeton
+msgid "One comment"
+msgstr ""
+
+#: framework/common-functions.php:378
+#: framework/common-functions.php:400
+#@ themeton
+msgid "comments"
+msgstr ""
+
+#: framework/common-functions.php:463
+#@ themeton
+msgid "&laquo;"
+msgstr ""
+
+#: framework/common-functions.php:464
+#@ themeton
+msgid "&raquo;"
+msgstr ""
+
+#: framework/common-functions.php:537
+#@ themeton
+msgid "Please add your social profiles on Theme Options => Social Options tab."
+msgstr ""
+
+#: framework/common-functions.php:590
+#@ themeton
+msgid "item in the shopping bag"
+msgstr ""
+
+#: framework/common-functions.php:624
+#: woocommerce/cart/cart.php:30
+#@ themeton
+msgid "Quantity"
+msgstr ""
+
+#: framework/common-functions.php:630
+#@ themeton
+msgid "Shopping Bag"
+msgstr ""
+
+#: framework/common-functions.php:631
+#@ themeton
+msgid "Checkout"
+msgstr ""
+
+#: framework/common-functions.php:643
+#@ themeton
+msgid "Woocommerce plugin not installed"
+msgstr ""
+
+#: framework/common-functions.php:566
+#: framework/common-functions.php:693
+#@ themeton
+msgid "WPML plugin not installed, Please try again"
+msgstr ""
+
+#: framework/common-functions.php:658
+#@ themeton
+msgid "Languages: "
+msgstr ""
+
+#: framework/common-functions.php:721
+#: framework/common-functions.php:722
+#@ themeton
+msgid "Name"
+msgstr ""
+
+#: framework/common-functions.php:723
+#: framework/common-functions.php:724
+#: woocommerce/myaccount/form-login.php:78
+#@ themeton
+msgid "Email"
+msgstr ""
+
+#: framework/common-functions.php:725
+#: framework/common-functions.php:726
+#@ themeton
+msgid "Website"
+msgstr ""
+
+#: framework/common-functions.php:778
+#@ themeton
+msgid "Share"
+msgstr ""
+
+#: framework/common-functions.php:830
+#@ themeton
+msgid "Related Posts"
+msgstr ""
+
+#: framework/common-functions.php:867
+#: framework/welcome.php:65
+#: framework/welcome.php:170
+#@ themeton
+msgid "Theme Options"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:227
+#@ themeton
+msgid "<div class='no-menu'>Please create a new menu in <b>Appearance->Menus</b> and select it on Primary location!</div>"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:294
+#@ themeton
+msgid "Menu Options"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: framework/mega-menu/mega-menu.php:501
+#, php-format
+#@ themeton
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: framework/mega-menu/mega-menu.php:505
+#, php-format
+#@ themeton
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:529
+#@ themeton
+msgid "Move up"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:542
+#@ themeton
+msgid "Move down"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:544
+#: framework/mega-menu/mega-menu.php:546
+#@ themeton
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:555
+#@ themeton
+msgid "URL"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:562
+#@ themeton
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:568
+#@ themeton
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:575
+#@ themeton
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:580
+#@ themeton
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:586
+#@ themeton
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:592
+#@ themeton
+msgid "Description"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:594
+#@ themeton
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:620
+#@ themeton
+msgid "Active Mega Menu"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:628
+#@ themeton
+msgid "Full width mega menu"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:653
+#@ themeton
+msgid "Label with Sidebar"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:677
+#, php-format
+#@ themeton
+msgid "Original: %s"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:690
+#@ themeton
+msgid "Remove"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:691
+#: woocommerce/myaccount/my-orders.php:77
+#@ themeton
+msgid "Cancel"
+msgstr ""
+
+#: framework/post-type/portfolio-options.php:5
+#: framework/post-type/portfolio-options.php:6
+#@ themeton
+msgid "Portfolio"
+msgstr ""
+
+#: framework/post-type/portfolio-options.php:7
+#@ themeton
+msgid "Edit Portfolio"
+msgstr ""
+
+#: framework/post-type/portfolio-options.php:8
+#@ themeton
+msgid "New Portfolio"
+msgstr ""
+
+#: framework/post-type/portfolio-options.php:9
+#@ themeton
+msgid "All Portfolio"
+msgstr ""
+
+#: framework/post-type/portfolio-options.php:10
+#@ themeton
+msgid "View Portfolio"
+msgstr ""
+
+#: framework/post-type/portfolio-options.php:11
+#@ themeton
+msgid "Portfolio Items"
+msgstr ""
+
+#: framework/post-type/portfolio-options.php:29
+#: framework/post-type/portfolio-options.php:45
+#@ themeton
+msgid "Categories"
+msgstr ""
+
+#: framework/post-type/portfolio-options.php:30
+#@ themeton
+msgid "Portfolio Category"
+msgstr ""
+
+#: framework/post-type/portfolio-options.php:44
+#@ themeton
+msgid "Portfolio Title"
+msgstr ""
+
+#: framework/post-type/portfolio-options.php:46
+#: woocommerce/myaccount/my-orders.php:33
+#@ themeton
+msgid "Date"
+msgstr ""
+
+#: framework/post-type/renderer.php:26
+#@ themeton
+msgid "label"
+msgstr ""
+
+#: framework/post-type/renderer.php:180
+#@ themeton
+msgid "Choose page..."
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:164
+#: framework/tgmplugin/plugin-install.php:59
+#@ themeton
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:165
+#: framework/tgmplugin/plugin-install.php:60
+#@ themeton
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:166
+#: framework/tgmplugin/plugin-install.php:61
+#, php-format
+#@ themeton
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:167
+#@ themeton
+msgid "Something went wrong."
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:168
+#: framework/tgmplugin/plugin-install.php:63
+#, php-format
+#@ themeton
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:169
+#: framework/tgmplugin/plugin-install.php:64
+#, php-format
+#@ themeton
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:170
+#, php-format
+#@ themeton
+msgid "There is a new update for %1$s."
+msgid_plural "There are several plugins updates available %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:171
+#: framework/tgmplugin/plugin-install.php:65
+#, php-format
+#@ themeton
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:172
+#: framework/tgmplugin/plugin-install.php:66
+#, php-format
+#@ themeton
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:173
+#: framework/tgmplugin/plugin-install.php:67
+#, php-format
+#@ themeton
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:174
+#: framework/tgmplugin/plugin-install.php:68
+#, php-format
+#@ themeton
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:175
+#: framework/tgmplugin/plugin-install.php:69
+#, php-format
+#@ themeton
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:176
+#: framework/tgmplugin/plugin-install.php:70
+#, php-format
+#@ themeton
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:177
+#: framework/tgmplugin/plugin-install.php:71
+#@ themeton
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:178
+#@ themeton
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:179
+#: framework/tgmplugin/plugin-install.php:72
+#@ themeton
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:180
+#: framework/tgmplugin/class-tgm-plugin-activation.php:510
+#: framework/tgmplugin/plugin-install.php:73
+#@ themeton
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:181
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1908
+#: framework/tgmplugin/plugin-install.php:74
+#@ themeton
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:182
+#, php-format
+#@ themeton
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:537
+#: framework/tgmplugin/class-tgm-plugin-activation.php:2120
+#@ themeton
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:565
+#, php-format
+#@ themeton
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:738
+#@ themeton
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1125
+#@ themeton
+msgid "External Link"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1130
+#@ themeton
+msgid "Private Repository"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1133
+#@ themeton
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1137
+#@ themeton
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1140
+#@ themeton
+msgid "Required"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1140
+#@ themeton
+msgid "Recommended"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1143
+#@ themeton
+msgid "Not Installed"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1145
+#@ themeton
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1147
+#@ themeton
+msgid "Not Updated"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1149
+#@ themeton
+msgid "Active"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1343
+#, php-format
+#@ themeton
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1359
+#@ themeton
+msgid "Plugin"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1360
+#@ themeton
+msgid "Source"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1361
+#@ themeton
+msgid "Type"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1362
+#: woocommerce/myaccount/my-orders.php:34
+#@ themeton
+msgid "Status"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1380
+#@ themeton
+msgid "Install"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1381
+#@ themeton
+msgid "Activate"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1606
+#@ themeton
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1891
+#@ themeton
+msgid "Install package not available."
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1892
+#, php-format
+#@ themeton
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1893
+#@ themeton
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1894
+#@ themeton
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1895
+#@ themeton
+msgid "Plugin install failed."
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1896
+#@ themeton
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:1907
+#@ themeton
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:2017
+#@ themeton
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:2018
+#, php-format
+#@ themeton
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:2018
+#: framework/tgmplugin/class-tgm-plugin-activation.php:2027
+#@ themeton
+msgid "Show Details"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:2018
+#: framework/tgmplugin/class-tgm-plugin-activation.php:2027
+#@ themeton
+msgid "Hide Details"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:2019
+#@ themeton
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:2020
+#, php-format
+#@ themeton
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:2024
+#@ themeton
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:2025
+#, php-format
+#@ themeton
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:2026
+#, php-format
+#@ themeton
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:2027
+#, php-format
+#@ themeton
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:2028
+#@ themeton
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/tgmplugin/class-tgm-plugin-activation.php:2029
+#, php-format
+#@ themeton
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgmplugin/plugin-install.php:62
+#@ themeton
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/tgmplugin/plugin-install.php:75
+#, php-format
+#@ themeton
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: framework/welcome.php:15
+#@ themeton
+msgid "Mana Theme"
+msgstr ""
+
+#: framework/welcome.php:16
+#@ themeton
+msgid "Welcome to Mana Theme"
+msgstr ""
+
+#: framework/welcome.php:55
+#, php-format
+#@ themeton
+msgid "Welcome to Mana %s"
+msgstr ""
+
+#: framework/welcome.php:59
+#@ themeton
+msgid "Thank you for using this theme!"
+msgstr ""
+
+#: framework/welcome.php:61
+#, php-format
+#@ themeton
+msgid "%s We hope you enjoy it."
+msgstr ""
+
+#: framework/welcome.php:66
+#@ themeton
+msgid "Documentation"
+msgstr ""
+
+#: framework/welcome.php:71
+#@ themeton
+msgid "Features"
+msgstr ""
+
+#: framework/welcome.php:74
+#@ themeton
+msgid "ThemeTon themes"
+msgstr ""
+
+#: framework/welcome.php:88
+#@ themeton
+msgid "The New Page Builder"
+msgstr ""
+
+#: framework/welcome.php:93
+#@ themeton
+msgid "Introducing new Page Builder."
+msgstr ""
+
+#: framework/welcome.php:94
+#@ themeton
+msgid "Drag & Drop User Interface"
+msgstr ""
+
+#: framework/welcome.php:95
+#@ themeton
+msgid "Quick and Easy tools help you to build any kind of page. Drag & Drop Interface saves your time."
+msgstr ""
+
+#: framework/welcome.php:96
+#@ themeton
+msgid "Page Builder Elements"
+msgstr ""
+
+#: framework/welcome.php:97
+#@ themeton
+msgid "There have 33 power elements despite multiple column layouts. Those give you freedom of creativity."
+msgstr ""
+
+#: framework/welcome.php:100
+#@ themeton
+msgid "Introducing Page Customizer"
+msgstr ""
+
+#: framework/welcome.php:105
+#@ themeton
+msgid "Every page has an option section called \"Page Cusomization\" which gives you opportunity to create Unique and different looking pages with few simple options. There have enable disable option every part (top bar, header, title and footer) change color and property of the web pages despite admin panel options."
+msgstr ""
+
+#: framework/welcome.php:109
+#@ themeton
+msgid "Key Features"
+msgstr ""
+
+#: framework/welcome.php:113
+#@ themeton
+msgid "Page Mixer"
+msgstr ""
+
+#: framework/welcome.php:114
+#@ themeton
+msgid "Build a new page with your existing pages and show navigation by including page links. You can create beautiful One Page design and custom parallax effects with it."
+msgstr ""
+
+#: framework/welcome.php:118
+#@ themeton
+msgid "Menu System"
+msgstr ""
+
+#: framework/welcome.php:119
+#@ themeton
+msgid "Theme has four unique and beautiful menu designs. You can create 10+ different looking navigations with those Regular, Icon, Metro and Wide options. Also mega menu option available."
+msgstr ""
+
+#: framework/welcome.php:122
+#@ themeton
+msgid "Parallax"
+msgstr ""
+
+#: framework/welcome.php:123
+#@ themeton
+msgid "Any page and Rows can show background image. Those images can move as Parallax when you scroll your website. It is a very nice and hope you enjoy it."
+msgstr ""
+
+#: framework/welcome.php:129
+#@ themeton
+msgid "Premium Sliders"
+msgstr ""
+
+#: framework/welcome.php:130
+#@ themeton
+msgid "You save $30 for Layer Slider & Revolution slider those are top popular items of Codecanyon site. Those power sliders give you to show your slides easier."
+msgstr ""
+
+#: framework/welcome.php:133
+#@ themeton
+msgid "Rich Snippets & Micro Data Format"
+msgstr ""
+
+#: framework/welcome.php:134
+#@ themeton
+msgid "SEO, Snippets - The few lines of text that appear under every search result are designed to give users a sense for what's on the page and why it's relevant to their query."
+msgstr ""
+
+#: framework/welcome.php:137
+#@ themeton
+msgid "Woo Commerce"
+msgstr ""
+
+#: framework/welcome.php:138
+#@ themeton
+msgid "Transform your WordPress website into a thorough-bred eCommerce store for free. Delivering enterprise-level quality & features whilst backed by a name you can trust."
+msgstr ""
+
+#: framework/welcome.php:146
+#@ themeton
+msgid "Noteable Features"
+msgstr ""
+
+#: framework/welcome.php:150
+#@ themeton
+msgid "Super Responsive"
+msgstr ""
+
+#: framework/welcome.php:151
+#@ themeton
+msgid "It is based on Bootstrap 3.0 and has a specific Grid System, Menu, and Elements which can work adaptivity with all Devices and screen resolutions."
+msgstr ""
+
+#: framework/welcome.php:155
+#@ themeton
+msgid "Unlimited Colors & Page Customization"
+msgstr ""
+
+#: framework/welcome.php:156
+#@ themeton
+msgid "You can choose color, design and solutions by yourself, and it is possible to build your web site into any type. And possible to do your desired design by controlling whole parts of the one page."
+msgstr ""
+
+#: framework/welcome.php:160
+#@ themeton
+msgid "Layered PSD"
+msgstr ""
+
+#: framework/welcome.php:161
+#@ themeton
+msgid "Included detailed PSD files those contain all web elements of the theme. You can redesign your elements with it."
+msgstr ""
+
+#: framework/welcome.php:166
+#@ themeton
+msgid "Icon Fonts"
+msgstr ""
+
+#: framework/welcome.php:167
+#@ themeton
+msgid "Font Awesome gives you scalable vector icons that can instantly be customized size, color, drop shadow, and anything that can be done with the power of CSS."
+msgstr ""
+
+#: framework/welcome.php:171
+#@ themeton
+msgid "Theme has tons of admin options those helps you to control your site as you want. You can tell your wishes If you need more specific one."
+msgstr ""
+
+#: framework/welcome.php:174
+#@ themeton
+msgid "Retina Ready"
+msgstr ""
+
+#: framework/welcome.php:175
+#@ themeton
+msgid "All graphics within WC have been optimised for HiDPI displays."
+msgstr ""
+
+#: framework/welcome.php:181
+#@ themeton
+msgid "Loops & Layouts"
+msgstr ""
+
+#: framework/welcome.php:182
+#@ themeton
+msgid "There have 11+ loop layouts including Classic, Metro and Grid of Blog page feels like a miracle. You can use them on any columns place with page builder and shortcode."
+msgstr ""
+
+#: framework/welcome.php:185
+#@ themeton
+msgid "Stunning Support"
+msgstr ""
+
+#: framework/welcome.php:186
+#@ themeton
+msgid "Our team had worked for 3 months. Every parts were improved and renewed. 3 people will work on support of the Theme, and they would be ready to serve you on design, development, error bug and instruction."
+msgstr ""
+
+#: framework/welcome.php:189
+#@ themeton
+msgid "Translation ready & WPML supports"
+msgstr ""
+
+#: framework/welcome.php:190
+#@ themeton
+msgid "Includes PO/MO files for your new languages. WPML makes it easy to build multilingual sites and run them. It's powerful enough for corporate sites, yet simple for blogs."
+msgstr ""
+
+#: framework/welcome.php:254
+#, php-format
+#@ themeton
+msgid "View %s"
+msgstr ""
+
+#: framework/widgets/authors_widget.php:61
+#: framework/widgets/flickr_widget.php:21
+#: framework/widgets/iconbox_widget.php:52
+#: framework/widgets/most_commented_widget.php:70
+#: framework/widgets/most_liked_widget.php:75
+#: framework/widgets/post_format_widget.php:72
+#: framework/widgets/recent_portfolio_widget.php:86
+#: framework/widgets/recent_posts_widget.php:85
+#@ themeton
+msgid "Title:"
+msgstr ""
+
+#: framework/widgets/flickr_widget.php:30
+#@ themeton
+msgid "Flickr user ID:"
+msgstr ""
+
+#: framework/widgets/flickr_widget.php:37
+#@ themeton
+msgid "How many pictures display:"
+msgstr ""
+
+#: framework/widgets/iconbox_widget.php:56
+#@ themeton
+msgid "Icon:"
+msgstr ""
+
+#: framework/widgets/iconbox_widget.php:60
+#@ themeton
+msgid "Link:"
+msgstr ""
+
+#: framework/widgets/iconbox_widget.php:65
+#@ themeton
+msgid "Open in a new tab"
+msgstr ""
+
+#: functions.php:18
+#@ themeton
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:19
+#@ themeton
+msgid "Top Bar Navigation"
+msgstr ""
+
+#: functions.php:20
+#@ themeton
+msgid "Mobile Navigation (optional)"
+msgstr ""
+
+#: functions.php:21
+#@ themeton
+msgid "Footer Navigation"
+msgstr ""
+
+#: functions.php:247
+#: part-header.php:137
+#@ themeton
+msgid "Search"
+msgstr ""
+
+#: functions.php:295
+#@ themeton
+msgid "<i class=\"icon-arrow-left\"></i>"
+msgstr ""
+
+#: functions.php:296
+#@ themeton
+msgid "<i class=\"icon-arrow-right\"></i>"
+msgstr ""
+
+#: functions.php:338
+#@ themeton
+msgid "&hellip;"
+msgstr ""
+
+#: functions.php:369
+#@ themeton
+msgid "Sticky"
+msgstr ""
+
+#: functions.php:375
+#: functions.php:381
+#@ themeton
+msgid ", "
+msgstr ""
+
+#: functions.php:388
+#, php-format
+#@ themeton
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:398
+#, php-format
+#@ themeton
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: functions.php:400
+#, php-format
+#@ themeton
+msgid "Permalink to %s"
+msgstr ""
+
+#: header.php:29
+#, php-format
+#@ themeton
+msgid "Page %s"
+msgstr ""
+
+#: search.php:41
+#, php-format
+#@ themeton
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single-portfolio.php:115
+#@ themeton
+msgid "<i class=\"icon-chevron-left\"></i>"
+msgstr ""
+
+#: single-portfolio.php:119
+#@ themeton
+msgid "<i class=\"icon-chevron-right\"></i>"
+msgstr ""
+
+#: single.php:100
+#@ themeton
+msgid "Tagged:"
+msgstr ""
+
+#: single.php:105
+#, php-format
+#@ themeton
+msgid "%2$s"
+msgstr ""
+
+#: single.php:119
+#, php-format
+#@ themeton
+msgid "<i class=\"icon-arrow-left\"></i> %title"
+msgstr ""
+
+#: single.php:122
+#, php-format
+#@ themeton
+msgid "%title <i class=\"icon-arrow-right\"></i>"
+msgstr ""
+
+#: taxonomy-portfolio_entries.php:30
+#, php-format
+#@ themeton
+msgid "Portfolio Entries : %s"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+#: woocommerce/order/order-details.php:20
+#@ themeton
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+#@ themeton
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/order/order-details.php:21
+#@ themeton
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:47
+#@ themeton
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:76
+#@ themeton
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:100
+#@ themeton
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127
+#@ themeton
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127
+#@ themeton
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134
+#@ themeton
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134
+#@ themeton
+msgid "Proceed to Checkout &rarr;"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:38
+#@ themeton
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:22
+#@ themeton
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:28
+#@ themeton
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:45
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:63
+#@ themeton
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:52
+#@ themeton
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:72
+#@ themeton
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:80
+#@ themeton
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:85
+#@ themeton
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:17
+#@ themeton
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:21
+#: woocommerce/myaccount/form-edit-address.php:27
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#: woocommerce/order/order-details.php:115
+#@ themeton
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:42
+#@ themeton
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:51
+#@ themeton
+msgid "Create an account by entering the information below. If you are a returning customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+#@ themeton
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+#@ themeton
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:32
+#@ themeton
+msgid "Ship to billing address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:35
+#: woocommerce/myaccount/form-edit-address.php:27
+#: woocommerce/myaccount/my-address.php:20
+#: woocommerce/order/order-details.php:130
+#@ themeton
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:59
+#@ themeton
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:71
+#@ themeton
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/order/order-details.php:97
+#@ themeton
+msgid "Customer details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:101
+#@ themeton
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:43
+#@ themeton
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:26
+#: woocommerce/myaccount/form-login.php:40
+#@ themeton
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:29
+#@ themeton
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:33
+#: woocommerce/myaccount/form-login.php:85
+#@ themeton
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:50
+#@ themeton
+msgid "Lost Password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:60
+#: woocommerce/myaccount/form-login.php:101
+#@ themeton
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:66
+#@ themeton
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:89
+#@ themeton
+msgid "Re-enter password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+#@ themeton
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+#@ themeton
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+#@ themeton
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:64
+#@ themeton
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:18
+#@ themeton
+msgid "Available downloads"
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:27
+#, php-format
+#@ themeton
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:26
+#@ themeton
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:32
+#@ themeton
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:62
+#, php-format
+#@ themeton
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:82
+#@ themeton
+msgid "View"
+msgstr ""
+
+#: woocommerce/order/order-details.php:16
+#@ themeton
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:64
+#, php-format
+#@ themeton
+msgid "Download file%s"
+msgstr ""
+
+#: woocommerce/order/order-details.php:90
+#@ themeton
+msgid "Order Again"
+msgstr ""
+
+#: woocommerce/order/order-details.php:102
+#@ themeton
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:119
+#: woocommerce/order/order-details.php:134
+#@ themeton
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+#, php-format
+#@ themeton
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+#@ themeton
+msgid "ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+#@ themeton
+msgid "and was completed"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+#@ themeton
+msgid " ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:31
+#@ themeton
+msgid "Order Updates"
+msgstr ""
+
+#: framework/common-functions.php:530
+#, php-format
+#@ themeton
+msgid "Your%20message%20here!"
+msgstr ""
+
+#: framework/common-functions.php:587
+#@ themeton
+msgid "items"
+msgstr ""
+
+#: framework/common-functions.php:587
+#@ themeton
+msgid "item"
+msgstr ""
+
+#: framework/common-functions.php:639
+#@ default
+msgid "was added to the cart"
+msgstr ""
+
+#: framework/common-functions.php:1214
+#@ themeton
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#: framework/common-functions.php:1217
+#@ themeton
+msgid "Please try another search term"
+msgstr ""
+
+#: framework/common-functions.php:1253
+#@ themeton
+msgid "View all results"
+msgstr ""
+
+#: 404.php:15
+#@ themeton
+msgid "404"
+msgstr ""
+
+#: 404.php:16
+#@ themeton
+msgid "Not Found"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:604
+#@ themeton
+msgid "Menu icon (allows custom icon by url)"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:612
+#@ themeton
+msgid "Background image for mega menu column"
+msgstr ""
+
+#: framework/mega-menu/mega-menu.php:636
+#@ themeton
+msgid "Menu BG Color for Metro style"
+msgstr ""
+
+#: framework/post-type/portfolio-options.php:14
+#@ themeton
+msgid "portfolio-item"
+msgstr ""
+
+#: search.php:70
+#@ themeton
+msgid "Your search term cannot be found"
+msgstr ""
+
+#: search.php:74
+#@ themeton
+msgid "For best search results, mind the following suggestions:"
+msgstr ""
+
+#: search.php:76
+#@ themeton
+msgid "Always double check your spelling."
+msgstr ""
+
+#: search.php:77
+#@ themeton
+msgid "Try similar keywords, for example: tablet instead of laptop."
+msgstr ""
+
+#: search.php:78
+#@ themeton
+msgid "Try using more than one keyword."
+msgstr ""
+

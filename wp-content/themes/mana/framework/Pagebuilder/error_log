@@ -1,0 +1,2 @@
+[03-Nov-2015 05:56:44 UTC] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/navrbsmnc/public_html/wp-content/themes/mana/framework/Pagebuilder/index.php on line 12
+[05-Nov-2015 06:03:47 UTC] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/navrbsmnc/public_html/wp-content/themes/mana/framework/Pagebuilder/index.php on line 12
